@@ -9,6 +9,7 @@ Move the current window to Ctrl-w followed by
 
 
 0 -> Get to the start of the line
+
 $ -> Get to the end of the current line
 
 
