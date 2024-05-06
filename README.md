@@ -6,4 +6,4 @@
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MartinWie&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com/?user=MartinWie&theme=dark)
